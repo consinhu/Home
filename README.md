@@ -13,7 +13,10 @@ Hi there, I'm Consin Hu, a rising senior at Rutgers University and an aspiring I
 - <b> Management of Tech Project </b>
   - [link to our figma spread] (https://www.figma.com/design/c0sbruMDL1S4C0g8Ba4FL8/Settled?node-id=0-1&t=qAnHPyWzV6xU4oU5-1)
 
+<h2>👩‍💻 Personal Projects</h2>
 
+- <b> Digital Investigation w/ Wireshark </b>
+  - [link to my video demonstration] ()
 
 <h2>Connect with Me</h2>
     <a href="https://www.linkedin.com/in/consin-hu/" target="_blank" rel="noopener noreferrer">
