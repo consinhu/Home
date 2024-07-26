@@ -16,7 +16,7 @@ Hi there, I'm Consin Hu, a rising senior at Rutgers University and an aspiring I
 <h2>👩‍💻 Personal Projects</h2>
 
 - <b> Digital Investigation w/ Wireshark </b>
-  - [Files and Other Info] ()
+  - [Files and Other Info] (https://github.com/consinhu/digitalinvestigationproject)
 
 <h2>Connect with Me</h2>
     <a href="https://www.linkedin.com/in/consin-hu/" target="_blank" rel="noopener noreferrer">
