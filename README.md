@@ -2,6 +2,11 @@
 
 Hi there, I'm Consin Hu, a rising senior at Rutgers University and an aspiring IT professional with concentrations in security and management as well as interests in cloud and consulting. I will be using this page to link my projects as I go so I can share my skills, accomplishments, and other miscellaneous tech things I spend my time on👾
 
+<h2>👩‍💻 OESON Internship Projects</h2>
+
+- <b> Network Mapping, Information Gathering, and Nmap Scripting Project</b>
+  - [Files and Other Info] (https://github.com/consinhu/nseproject)
+    
 <h2>👩‍💻 Class Projects</h2>
 
 - <b> OOP Final Project </b>
