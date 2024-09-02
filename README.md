@@ -6,6 +6,8 @@ Hi there, I'm Consin Hu, a rising senior at Rutgers University and an aspiring I
 
 - <b> Network Mapping, Information Gathering, and Nmap Scripting Project</b>
   - [Files and Other Info] (https://github.com/consinhu/nseproject)
+- <b> Nessus and OpenVAS Vulnerability Scanning Project</b>
+  - [link to my video presentation/walkthrough] (https://youtu.be/lKS-GdZ2eXU)
     
 <h2>👩‍💻 Class Projects</h2>
 
