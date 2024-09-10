@@ -1,6 +1,6 @@
 # Welcome to Consin's IT Professional Portfolio
 
-Hi there, I'm Consin Hu, a rising senior at Rutgers University and an aspiring IT professional with concentrations in security and management as well as interests in cloud and consulting. I will be using this page to link my projects as I go so I can share my skills, accomplishments, and other miscellaneous tech things I spend my time on👾
+Hi there, I'm Consin Hu, a senior at Rutgers University and an aspiring IT professional with concentrations in security and management as well as interests in cloud and consulting. I will be using this page to link my projects as I go so I can share my skills, accomplishments, and other miscellaneous tech things I spend my time on👾
 
 <h2>👩‍💻 OESON Internship Projects</h2>
 
