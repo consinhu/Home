@@ -24,7 +24,7 @@ Hi there, I'm Consin Hu, a senior at Rutgers University and an aspiring IT profe
 
 - <b> Digital Investigation w/ Wireshark </b>
   - [Files and Other Info] (https://github.com/consinhu/digitalinvestigationproject)
-- <b> Intrusion Detection System w/ Snort </b>
+- <b> Building an Intrusion Detection System w/ Snort </b>
   - [video link] (https://youtu.be/J5v9Lu8C85c)
   - [extra files] (https://github.com/consinhu/idsproject/tree/main)
 
