@@ -19,7 +19,9 @@ Hi there, I'm Consin Hu. I am a senior at Rutgers University as well as an aspir
     
 <h2>👩‍💻 Class Projects</h2>
 
-- <b> OOP Final Project </b>
+- <b> Fundamentals of Big Data Curation & Management Final Project </b>
+  - [code file] (https://github.com/consinhu/fund_data_cur-mgmt)
+- <b> Object Oriented Programming Final Project </b>
   - [code file] (https://github.com/consinhu/OOP-Python-/blob/main/data_etl.py)
   - [project report] (https://github.com/consinhu/OOP-Python-/blob/main/Final%20Project%20Report.docx)
 - <b> Data 101 Final Project</b>
