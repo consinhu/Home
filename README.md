@@ -1,6 +1,6 @@
 # Welcome to Consin's IT Professional Portfolio
 
-Hi there, I'm Consin Hu, a senior at Rutgers University and an aspiring IT professional with concentrations and interests in various IT-related fields such as cybersecurity, database management, IT support, cloud computing, and more! I will be using this page to link my projects as I go so I can share my skills, accomplishments, and other miscellaneous tech things I spend my time on👾
+Hi there, I'm Consin Hu. I am a senior at Rutgers University as well as an aspiring IT professional with concentrations and interests in various IT-related fields such as cybersecurity, database management, IT support, cloud computing, and more! I will be using this page to link my projects as I go so I can share my skills, accomplishments, and other miscellaneous tech things I like to spend my time on👾
 
 <h2>👩‍💻 Cybersecurity Projects</h2>
 
@@ -10,7 +10,7 @@ Hi there, I'm Consin Hu, a senior at Rutgers University and an aspiring IT profe
 - <b> Digital Investigation w/ Wireshark </b>
   - [Files and Other Info] (https://github.com/consinhu/digitalinvestigationproject)
 
-<h2>👩‍💻 OESON Internship Projects</h2>
+<h2>👩‍💻 OESON Internship Capstones</h2>
 
 - <b> Network Mapping, Information Gathering, and Nmap Scripting Project</b>
   - [Files and Other Info] (https://github.com/consinhu/nseproject)
