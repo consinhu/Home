@@ -4,7 +4,8 @@ Hi there, I'm Consin and I am currently a senior at Rutgers University. As an as
 
 <h2>👩‍💻 Database Management Projects </h2>
 
-- <b> Hospital Management System (In progress) </b>
+- <b> Hospital Management System </b>
+  - [files] (https://github.com/consinhu/hospitalmgmtdb/tree/main)
 
 <h2>👩‍💻 Cybersecurity Projects</h2>
 
