@@ -5,7 +5,7 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
 <h2>👩‍💻 Information Technology Projects </h2>
 
 - <b> osTicket (Help Desk Ticketing System) <b>
-  - ### [osTicket: Part I - Files + Setup] (https://github.com/consinhu/osTicket)
+  - [osTicket: Part I - Files + Setup](https://github.com/consinhu/osTicket)
   - [osTicket: Part II - ... in progress ...]
   - [osTicket: Part III - ... in progress ...]
 
