@@ -1,4 +1,4 @@
-# Welcome to Consin's IT Professional Portfolio
+# Welcome to Consin's IT Portfolio
 
 Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad from Rutgers University. As an aspiring IT professional, I'm pursuing concentrations and interests in various IT-related topics such as cybersecurity, database management, IT support, cloud computing, and more! I will be using this page to link my projects as I go so I can share my skills, accomplishments, and other miscellaneous tech things I like to spend my time on 👾
 
