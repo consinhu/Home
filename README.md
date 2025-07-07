@@ -7,7 +7,7 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
 - <b> osTicket (Help Desk Ticketing System) <b>
   - [osTicket: Part I - Files + Setup](https://github.com/consinhu/osTicket)
   - [osTicket: Part II - Groups, Permissions, and Additional Configurations](https://github.com/consinhu/osTicketConfigurations)
-  - [osTicket: Part III - ... in progress ...]
+  - [osTicket: Part III - Ticket Lifecycle and Assigning Priorities, SLAs, Teams, etc.](https://github.com/consinhu/osTicket-ticketing-lifecycle)
 
 <h2>👩‍💻 Database Management Projects </h2>
 
