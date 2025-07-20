@@ -9,7 +9,7 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
   - [osTicket: Part II - Groups, Permissions, and Additional Configurations](https://github.com/consinhu/osTicketConfigurations)
   - [osTicket: Part III - Ticket Lifecycle and Assigning Priorities, SLAs, Teams, etc.](https://github.com/consinhu/osTicket-ticketing-lifecycle)
  
-- <b> Active Directory HomeLab <b>
+- <b> Active Directory HomeLab (ongoing)<b>
   - [Active Directory Part I: Installation](https://github.com/consinhu/active-directory-installation)
 
 <h2>👩‍💻 Database Management Projects </h2>
