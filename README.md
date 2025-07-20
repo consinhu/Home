@@ -12,12 +12,12 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
 - <b> Active Directory HomeLab (ongoing)<b>
   - [Active Directory Part I: Installation](https://github.com/consinhu/active-directory-installation)
 
-<h2>👩‍💻 Database Management Projects </h2>
+<h2>👩‍💼 Database Management Projects </h2>
 
 - <b> Hospital Management System </b>
   - [Code Files](https://github.com/consinhu/hospitalmgmtdb/tree/main)
 
-<h2>👩‍💻 Cybersecurity Projects</h2>
+<h2>🔐 Cybersecurity Projects</h2>
 
 - <b> Building an Intrusion Detection System w/ Snort </b>
   - [Video Link](https://youtu.be/J5v9Lu8C85c)
@@ -25,14 +25,14 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
 - <b> Digital Investigation w/ Wireshark </b>
   - [Files and Other Info](https://github.com/consinhu/digitalinvestigationproject)
 
-<h2>👩‍💻 OESON Internship Capstones</h2>
+<h2>🎥 OESON Internship Capstones</h2>
 
 - <b> Network Mapping, Information Gathering, and Nmap Scripting Project</b>
   - [Files and Other Info](https://github.com/consinhu/nseproject)
 - <b> Nessus and OpenVAS Vulnerability Scanning Project</b>
   - [link to my video presentation/walkthrough](https://youtu.be/lKS-GdZ2eXU)
     
-<h2>👩‍💻 Class Projects</h2>
+<h2>📚 Class Projects</h2>
 
 - <b> Fundamentals of Big Data Curation & Management Final Project </b>
   - [code file](https://github.com/consinhu/fund_data_cur-mgmt)
