@@ -11,6 +11,7 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
  
 - <b> Active Directory HomeLab (ongoing)<b>
   - [Active Directory Part I: Installation](https://github.com/consinhu/active-directory-installation)
+  - [Active Directory Part II: Group Policy Creation, Configuration, Application & Testing](https://github.com/consinhu/active-directory-GPO)
 
 <h2>👩‍💼 Database Management Projects </h2>
 
