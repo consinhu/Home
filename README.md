@@ -34,6 +34,8 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
   - [link to my video presentation/walkthrough](https://youtu.be/lKS-GdZ2eXU)
     
 <h2>📚 Class Projects</h2>
+- <b>Information Policies Politics & Power Privacy Policy</b>
+  - [Final Project Details & Document](https://github.com/consinhu/info_p3/tree/main)
 
 - <b> Fundamentals of Big Data Curation & Management Final Project </b>
   - [code file](https://github.com/consinhu/fund_data_cur-mgmt)
