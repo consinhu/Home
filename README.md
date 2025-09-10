@@ -8,7 +8,6 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
   - [osTicket: Part I - Files + Setup](https://github.com/consinhu/osTicket)
   - [osTicket: Part II - Groups, Permissions, and Additional Configurations](https://github.com/consinhu/osTicketConfigurations)
   - [osTicket: Part III - Ticket Lifecycle and Assigning Priorities, SLAs, Teams, etc.](https://github.com/consinhu/osTicket-ticketing-lifecycle)
- 
 - <b> Active Directory HomeLab (ongoing)<b>
   - [Active Directory Part I: Installation](https://github.com/consinhu/active-directory-installation)
   - [Active Directory Part II: Group Policy Creation, Configuration, Application & Testing](https://github.com/consinhu/active-directory-GPO)
@@ -23,7 +22,6 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
 - <b> Building an Intrusion Detection System w/ Snort </b>
   - [Video Link](https://youtu.be/J5v9Lu8C85c)
   - [Extra Files](https://github.com/consinhu/idsproject/tree/main)
-    
 - <b> Digital Investigation w/ Wireshark </b>
   - [Files and Other Info](https://github.com/consinhu/digitalinvestigationproject)
 
@@ -31,7 +29,6 @@ Hi there, I'm Consin, a recent Information Technology & Informatics (ITI) grad f
 
 - <b> Network Mapping, Information Gathering, and Nmap Scripting Project</b>
   - [Files and Other Info](https://github.com/consinhu/nseproject)
-    
 - <b> Nessus and OpenVAS Vulnerability Scanning Project</b>
   - [link to my video presentation/walkthrough](https://youtu.be/lKS-GdZ2eXU)
     
